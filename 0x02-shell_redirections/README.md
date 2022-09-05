@@ -3,6 +3,7 @@ Project done during Full Stack Software Engineering studies at Alx School. It ai
 
 # Technologies
 Scripts written in Bash 5.0.17(1)
+
 Tested on Ubuntu 20.04 LTS
 # Files
 All of the following files are scripts:
